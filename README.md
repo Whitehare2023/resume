@@ -37,11 +37,19 @@ Supports Bitcoin, Ethereum, Solana, and Tron. Available as a standalone Chrome e
 用户无需透露具体信息，只需证明他们拥有有效的身份。用户可以在多个平台上重复使用他们的区块链身份，无需重复认证过程。利用区块链的安全性和不可篡改性，减少身份盗用和欺诈的风险。用户对自己的身份信息拥有完全的控制权。  
 Developed a decentralized identity verification system based on Halo2 technology. Users can create a blockchain-based identity containing their basic authentication information. When users need to authenticate on any supported platform, they can use Halo2's zero-knowledge proof technology to verify the validity of their identity without revealing any detailed information beyond what is necessary. Users need not disclose specific details, just prove they possess a valid identity. This identity can be reused across multiple platforms without repeating the authentication process. Utilizing the security and immutability of blockchain reduces the risk of identity theft and fraud, granting users full control over their identity information.  
 
+**DeFi 项目：基于 BSC 的去中心化金融模型开发**
+**DeFi Project: Development of a Decentralized Financial Model on BSC**
+*2024.9*
+在 Binance Smart Chain 上独立开发了一个去中心化金融 (DeFi) 模型。该项目参考了 Solana 上的 Pump.fun 核心逻辑，并结合 BSC 生态特点进行了设计与优化。  
+用户可以通过该模型在 BSC 网络上进行代币买卖与流动性提供操作。为了适应 BSC 网络的性能特点，我对智能合约进行了深入的优化，降低了 Gas 费用，并改进了曲线算法，使得用户在进行大额交易时的成本降低、交易速度加快。  
+该模型允许用户在提供流动性时自动计算奖励，并在曲线机制下获得更好的收益回报。系统还针对高并发交易场景做了性能优化，显著提升了交易响应时间。  
+Independently developed a decentralized financial (DeFi) model on Binance Smart Chain (BSC), inspired by the core logic of Pump.fun on Solana but redesigned and optimized for the BSC ecosystem. The model allows users to trade tokens and provide liquidity on the BSC network. The smart contracts were optimized to reduce gas fees and improve the curve algorithm, leading to reduced costs and faster transactions for users during large trades. The system automatically calculates rewards for liquidity providers and enhances returns based on a bonding curve mechanism. The project also included performance optimizations to handle high transaction volumes, significantly improving response times.  
+
 ## 工作经历 Work Experience  
 
 **Opensource 公司 Opensource Company**  
 *后端开发 | 钱包维护与扩链 Backend Developer | Wallet Maintenance and Expansion*  
-*2023.12 - 至今 Present*  
+*2023.12 - 2024.06 *  
 在加入 Opensource 公司后，我主要负责维护和扩展公司的数字钱包服务。  
 起初，该钱包只支持 Binance Smart Chain (BSC) 网络，我成功地实现了对波场（Tron）、以太坊（Ethereum）、Solana、Polygon 以及 Arbitrum 网络的集成。  
 这项工作不仅要求对各个链的技术细节有深入的理解，还需要我确保整合后的钱包系统在安全性和性能上达到行业标准。  
