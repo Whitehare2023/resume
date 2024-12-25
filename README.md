@@ -1,5 +1,6 @@
 ## 个人信息 Personal Information  
 
+- **姓名 Name：** Mengyuan Xie
 - **年龄 Age：** 25
 - **邮箱 Email：** whitehare2023@gmail.com
 - **现居地  Location：** 广州 Guangzhou
@@ -7,7 +8,7 @@
 ## 求职目标  
 
 专注于Web3领域，期望找一个远程智能合约开发岗位，或在上海杭州深圳的线下岗位，随时到岗。  
-Focused on the Web3 sector, seeking a remote position in smart contract development, or on-site opportunities in Shanghai, Hangzhou, or Shenzhen, ready to start immediately.
+Focused on the Web3 world, seeking a remote position in smart contract development, or on-site opportunities in Shanghai, Hangzhou, or Shenzhen, ready to start immediately.
 
 ## 项目经验 Project Experience
 
@@ -56,6 +57,23 @@ Independently developed a decentralized financial (DeFi) model on Binance Smart 
 我的贡献显著提高了产品的市场竞争力，为用户提供了更为广泛的加密货币管理选项。  
 Upon joining Opensource Company, my primary responsibilities have been maintaining and expanding the company's digital wallet service. Initially supporting only the Binance Smart Chain (BSC), I successfully integrated support for Tron, Ethereum, Solana, Polygon, and Arbitrum networks. This task required an in-depth understanding of each chain's technical details and ensuring that the integrated wallet system met industry standards in security and performance. My contributions significantly enhanced the product's competitiveness and provided users with a broader range of cryptocurrency management options.  
 
+### 工作经历 Work Experience  
+
+**Blocknovas LLC**  
+*2024.8 - Present*  
+**全栈开发 Full-Stack Developer**  
+- 负责公司若干去中心化金融（DeFi）产品的开发与上线，包括一个类似 dYdX 的衍生品交易平台和一个收益聚合器产品：  
+  - **衍生品交易平台 Derivative Trading Platform:**  
+    开发并部署了基于以太坊的去中心化衍生品交易平台，支持永续合约交易。使用 Solidity 实现核心智能合约，优化撮合与结算逻辑，确保高性能和低 Gas 消耗。前端使用 React 和 TailwindCSS 实现响应式交易界面，并整合 Chart.js 提供实时市场数据图表。  
+    *Developed and deployed an Ethereum-based decentralized derivatives trading platform supporting perpetual contract trading. Implemented core smart contracts using Solidity, optimizing matching and settlement logic for high performance and low gas costs. Built a responsive trading interface with React and TailwindCSS, integrating Chart.js for real-time market data visualization.*
+
+  - **收益聚合器 Yield Aggregator:**  
+    设计并实现了多链收益聚合器平台，支持用户跨链参与流动性挖矿并获得最优收益。通过集成 Curve 和 PancakeSwap 等协议，自动优化用户的收益策略。前端与后端实时同步收益数据，并使用 MongoDB 存储历史收益记录。  
+    *Designed and implemented a multi-chain yield aggregator platform enabling users to participate in cross-chain liquidity mining and maximize returns. Integrated protocols like Curve and PancakeSwap to automate yield optimization strategies. Frontend and backend were synchronized for real-time yield data, with historical records stored in MongoDB.*
+
+- 提高了公司产品的开发效率，参与了从需求分析到主网部署的完整产品生命周期，推动团队快速迭代新功能，产品上线后获得了广泛用户好评。  
+  *Enhanced the development efficiency of the company's products, participating in the entire product lifecycle from requirement analysis to mainnet deployment. Drove rapid iterations of new features, earning widespread user acclaim after product launches.*
+
 ## 生态贡献 Ecological Contributions  
 
 **web3url 项目 Web3url Project**  
@@ -67,18 +85,15 @@ Independently developed and enhanced the web3url project, which supports Ethereu
 
 - **dart_polygon:**  
   独立开发的 DartPolygon 库，专注于 Dart 与 Polygon (Matic) 网络的集成，提供了 Ethereum 兼容链的高效交易方案。  
-  Independently developed the DartPolygon library, focusing on integrating Dart with the Polygon (Matic) network to provide efficient transaction solutions for Ethereum-compatible chains.    Project Link: [GitHub - dart_polygon](https://github.com/Whitehare2023/dart_polygon)  
-
+  Independently developed the DartPolygon library, focusing on integrating Dart with the Polygon (Matic) network to provide efficient transaction solutions for Ethereum-compatible chains.   Project Link: [GitHub - dart_polygon](https://github.com/Whitehare2023/dart_polygon)  
 - **dart_arbitrum:**  
   独立开发 DartArbitrum 库，为 Dart 开发者提供了便捷的工具，以轻松整合 Arbitrum 层二扩容解决方案。
   Developed the DartArbitrum library independently, offering Dart developers convenient tools to seamlessly integrate with the Arbitrum Layer 2 scaling solution.  
   Project Link: [GitHub - dart_arbitrum](https://github.com/Whitehare2023/dart_arbitrum)  
-
 - **dart_solana:**  
   Independently developed the DartSolana library, a comprehensive Dart library tailored for the Solana blockchain ecosystem.
   独立开发 DartSolana 库，这是一个为 Solana 区块链生态系统定制的综合 Dart 库。
   Project Link: [GitHub - dart_solana](https://github.com/Whitehare2023/dart_solana)  
-
 - **dart_tron:**
   独立开发 DartTron 库，提供了与 Tron 区块链交互所需的 Dart 工具和库。
   Developed the DartTron library, providing Dart tools and libraries needed for interacting with the Tron blockchain.   
@@ -86,10 +101,45 @@ Independently developed and enhanced the web3url project, which supports Ethereu
 
 ## 技能总结 Skills Summary  
 
-- **编程语言 Programming Languages:** Python, Java, JavaScript, Solidity, Rust, Move  
-- **区块链开发 Blockchain Development:** Proficient in Solidity, Cairo, Vyper, Move languages; familiar with ERC20, ERC721, ERC1155, ERC-1155 standards; development of smart contracts using web3.js, Hardhat, go-eth.  
-- **服务器与中间件 Server & Middleware:** Nginx, Tomcat, Redis, Elasticsearch, RabbitMQ  
-- **操作系统 Operating Systems:** Proficient with Unix-like and Windows environments  
+### 区块链开发 Blockchain Development:
+- **熟悉以太坊（Ethereum）** 的智能合约开发，包括 Solidity 和 Vyper 编程语言，熟练使用 Hardhat 和 Foundry 等开发工具，了解 ERC20、ERC721 和 ERC1155 等标准。  
+  *Familiar with Ethereum smart contract development, including Solidity and Vyper programming languages. Proficient in using development tools like Hardhat and Foundry, with a solid understanding of ERC20, ERC721, and ERC1155 standards.*
+- **精通 Solana 区块链的开发**，能够使用 Rust 和 Anchor 框架编写高性能智能合约，擅长开发 SPL Token 和 DeFi 协议，理解 Solana 的高吞吐量特性及其运行机制。  
+  *Skilled in Solana blockchain development, adept at writing high-performance smart contracts using Rust and the Anchor framework. Experienced in developing SPL Tokens and DeFi protocols, with a deep understanding of Solana’s high-throughput characteristics and operational mechanics.*
+- **熟悉 Sui 区块链开发**，掌握 Move 编程语言，能够高效开发 Sui 智能合约，尤其是在分布式存储和质押协议方面有实践经验。  
+  *Familiar with Sui blockchain development, proficient in the Move programming language, capable of efficiently developing Sui smart contracts, particularly in areas like distributed storage and staking protocols.*
+- **熟悉区块链项目从开发到部署的完整生命周期**，包括测试、优化 Gas 消耗和上主网部署。  
+  *Knowledgeable about the full lifecycle of blockchain projects, from development to deployment, including testing, gas optimization, and mainnet deployment.*
+
+### 前端与全栈开发 Frontend & Full-Stack Development:
+- **熟练使用 React.js 和 Next.js**，能够构建响应式、高性能的单页应用程序 (SPA)。  
+  *Proficient in using React.js and Next.js to build responsive, high-performance single-page applications (SPAs).*
+- **精通 TailwindCSS 和 Ant Design** 等前端样式框架，能够快速实现现代化 UI/UX。  
+  *Skilled in TailwindCSS and Ant Design frontend styling frameworks, capable of rapidly creating modern UI/UX designs.*
+- **熟练掌握 React Query、Redux 状态管理工具，以及 React Router 路由工具。**  
+  *Experienced with React Query, Redux state management tools, and React Router for efficient application routing.*
+- **掌握前后端交互技术**，熟练使用 Axios 和 Fetch API 与后端服务进行数据通信。  
+  *Experienced in frontend-backend interaction techniques, proficient in using Axios and Fetch API for data communication with backend services.*
+
+### 后端开发 Backend Development:
+- **熟练使用 Node.js 和 Express.js** 开发 RESTful API，能够与区块链网络交互。  
+  *Proficient in using Node.js and Express.js to develop RESTful APIs and interact with blockchain networks.*
+- **熟悉 MongoDB 等 NoSQL 数据库**，能够高效设计与管理分布式数据库方案。  
+  *Familiar with MongoDB and other NoSQL databases, capable of efficiently designing and managing distributed database solutions.*
+- **能够独立完成从后端服务到前端界面的全栈开发任务。**  
+  *Capable of independently completing full-stack development tasks, from backend services to frontend interfaces.*
+
+### 编程语言 Programming Languages:
+- 熟练使用 Solidity、Rust、Move、JavaScript、TypeScript 和 Python，具备区块链和传统软件开发的全栈能力。  
+  *Proficient in Solidity, Rust, Move, JavaScript, TypeScript, and Python, with full-stack capabilities in both blockchain and traditional software development.*
+
+### 其他技术 Other Skills:
+- **熟练使用 Web3.js 和 Ethers.js** 与区块链交互。  
+  *Proficient in using Web3.js and Ethers.js to interact with blockchain networks.*
+- **掌握分布式系统的设计与实现**，熟悉 Nginx、Redis 和 RabbitMQ 等常用中间件工具。  
+  *Skilled in the design and implementation of distributed systems, familiar with common middleware tools like Nginx, Redis, and RabbitMQ.*
+- **熟练使用 Git 进行版本管理，具备高效的团队协作能力。**  
+  *Proficient in using Git for version control, with strong teamwork and collaboration skills.*
 
 ## 语言能力 Language Proficiency  
 
