@@ -7,8 +7,8 @@
 
 ## 求职目标  
 
-专注于Web3领域，期望找一个远程智能合约开发岗位，或在上海杭州深圳的线下岗位，随时到岗。  
-Focused on the Web3 world, seeking a remote position in smart contract development, or on-site opportunities in Shanghai, Hangzhou, or Shenzhen, ready to start immediately.
+专注于 Web3 领域，期望从事智能合约开发、DeFi 应用或全栈开发岗位。  
+*Focused on the Web3 world, seeking roles in smart contract development, DeFi applications, or full-stack development.*
 
 ## 项目经验 Project Experience
 
@@ -55,11 +55,9 @@ Independently developed a decentralized financial (DeFi) model on Binance Smart 
 起初，该钱包只支持 Binance Smart Chain (BSC) 网络，我成功地实现了对波场（Tron）、以太坊（Ethereum）、Solana、Polygon 以及 Arbitrum 网络的集成。  
 这项工作不仅要求对各个链的技术细节有深入的理解，还需要我确保整合后的钱包系统在安全性和性能上达到行业标准。  
 我的贡献显著提高了产品的市场竞争力，为用户提供了更为广泛的加密货币管理选项。  
-Upon joining Opensource Company, my primary responsibilities have been maintaining and expanding the company's digital wallet service. Initially supporting only the Binance Smart Chain (BSC), I successfully integrated support for Tron, Ethereum, Solana, Polygon, and Arbitrum networks. This task required an in-depth understanding of each chain's technical details and ensuring that the integrated wallet system met industry standards in security and performance. My contributions significantly enhanced the product's competitiveness and provided users with a broader range of cryptocurrency management options.  
+Upon joining Opensource Company, my primary responsibilities have been maintaining and expanding the company's digital wallet service. Initially supporting only the Binance Smart Chain (BSC), I successfully integrated support for Tron, Ethereum, Solana, Polygon, and Arbitrum networks. This task required an in-depth understanding of each chain's technical details and ensuring that the integrated wallet system met industry standards in security and performance. My contributions significantly enhanced the product's competitiveness and provided users with a broader range of cryptocurrency management options.   
 
-### 工作经历 Work Experience  
-
-**Blocknovas LLC**  
+**RiseAndRun**  
 *2024.8 - Present*  
 **全栈开发 Full-Stack Developer**  
 - 负责公司若干去中心化金融（DeFi）产品的开发与上线，包括一个类似 dYdX 的衍生品交易平台和一个收益聚合器产品：  
