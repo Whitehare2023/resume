@@ -57,7 +57,7 @@ Independently developed a decentralized financial (DeFi) model on Binance Smart 
 我的贡献显著提高了产品的市场竞争力，为用户提供了更为广泛的加密货币管理选项。  
 Upon joining Opensource Company, my primary responsibilities have been maintaining and expanding the company's digital wallet service. Initially supporting only the Binance Smart Chain (BSC), I successfully integrated support for Tron, Ethereum, Solana, Polygon, and Arbitrum networks. This task required an in-depth understanding of each chain's technical details and ensuring that the integrated wallet system met industry standards in security and performance. My contributions significantly enhanced the product's competitiveness and provided users with a broader range of cryptocurrency management options.   
 
-**RiseAndRun**  
+**Blocknovas LLC**  
 *2024.8 - Present*  
 **全栈开发 Full-Stack Developer**  
 - 负责公司若干去中心化金融（DeFi）产品的开发与上线，包括一个类似 dYdX 的衍生品交易平台和一个收益聚合器产品：  
