@@ -3,7 +3,18 @@
 - **姓名 Name：** Mengyuan Xie
 - **年龄 Age：** 25
 - **邮箱 Email：** whitehare2023@gmail.com
-- **现居地  Location：** 广州 Guangzhou
+- **现居地  Location：** 深圳 Shenzhen
+
+## 专业概述 Professional Summary  
+
+- 3 年区块链与 Web3 领域开发经验，精通以太坊、Solana 和 Sui 等公链开发，擅长智能合约设计与优化。  
+  *3 years of development experience in the blockchain and Web3 fields, proficient in public chains such as Ethereum, Solana, and Sui, specializing in smart contract design and optimization.*  
+- 全栈开发背景，熟练掌握前端框架（React/Next.js）和后端技术（Node.js/Express.js、MongoDB）。  
+  *Full-stack development background, proficient in frontend frameworks (React/Next.js) and backend technologies (Node.js/Express.js, MongoDB).*  
+- 深入参与多个 DeFi 项目，包括衍生品交易平台、收益聚合器和跨链质押协议，具有丰富的项目全周期经验。  
+  *Deeply involved in multiple DeFi projects, including derivative trading platforms, yield aggregators, and cross-chain staking protocols, with extensive experience throughout the project lifecycle.*  
+- 对智能合约安全性、Gas 优化和高性能分布式系统有深刻理解，擅长解决复杂技术问题。  
+  *Profound understanding of smart contract security, gas optimization, and high-performance distributed systems, skilled at solving complex technical problems.*  
 
 ## 求职目标  
 
