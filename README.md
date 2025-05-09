@@ -68,20 +68,21 @@ Independently developed a decentralized financial (DeFi) model on Binance Smart 
 我的贡献显著提高了产品的市场竞争力，为用户提供了更为广泛的加密货币管理选项。  
 Upon joining Opensource Company, my primary responsibilities have been maintaining and expanding the company's digital wallet service. Initially supporting only the Binance Smart Chain (BSC), I successfully integrated support for Tron, Ethereum, Solana, Polygon, and Arbitrum networks. This task required an in-depth understanding of each chain's technical details and ensuring that the integrated wallet system met industry standards in security and performance. My contributions significantly enhanced the product's competitiveness and provided users with a broader range of cryptocurrency management options.   
 
-**Blocknovas LLC**  
-*2024.8 - Present*  
-**全栈开发 Full-Stack Developer**  
-- 负责公司若干去中心化金融（DeFi）产品的开发与上线，包括一个类似 dYdX 的衍生品交易平台和一个收益聚合器产品：  
-  - **衍生品交易平台 Derivative Trading Platform:**  
-    开发并部署了基于以太坊的去中心化衍生品交易平台，支持永续合约交易。使用 Solidity 实现核心智能合约，优化撮合与结算逻辑，确保高性能和低 Gas 消耗。前端使用 React 和 TailwindCSS 实现响应式交易界面，并整合 Chart.js 提供实时市场数据图表。  
-    *Developed and deployed an Ethereum-based decentralized derivatives trading platform supporting perpetual contract trading. Implemented core smart contracts using Solidity, optimizing matching and settlement logic for high performance and low gas costs. Built a responsive trading interface with React and TailwindCSS, integrating Chart.js for real-time market data visualization.*
+**JadeRoll**  
+*全栈开发 | 智能合约与前端研发  Full-Stack Developer | Smart Contract & Frontend Development*  
+*2024.12 - Present*  
 
-  - **收益聚合器 Yield Aggregator:**  
-    设计并实现了多链收益聚合器平台，支持用户跨链参与流动性挖矿并获得最优收益。通过集成 Curve 和 PancakeSwap 等协议，自动优化用户的收益策略。前端与后端实时同步收益数据，并使用 MongoDB 存储历史收益记录。  
-    *Designed and implemented a multi-chain yield aggregator platform enabling users to participate in cross-chain liquidity mining and maximize returns. Integrated protocols like Curve and PancakeSwap to automate yield optimization strategies. Frontend and backend were synchronized for real-time yield data, with historical records stored in MongoDB.*
+在 JadeRoll 项目中负责全栈开发工作，主导智能合约、子图与前端 UI 的设计与实现。  
+基于 ERC-4626 标准设计并部署去中心化资金池，为链上游戏提供安全高效的资金管理模块。  
+构建了完整的链上游戏 DeFi 架构，涵盖收益分配、风险控制和流动性激励机制，可支持多款游戏扩展。  
+使用 Next.js、Wagmi、RainbowKit 等技术栈开发交互式前端，优化用户体验，实现实时链上下注与结算。  
+协助团队完成主网部署，成功交付 JadeRoll 的首个去中心化赌场原型，为公司在 Web3 Gaming 赛道奠定技术基础。  
+Took charge of full-stack development for the JadeRoll project, leading the design and implementation of smart contracts, subgraph indexing, and front-end UI.  
+Designed and deployed a decentralized liquidity vault based on the ERC-4626 standard, delivering secure and efficient fund management for on-chain games.  
+Built a comprehensive DeFi architecture for blockchain gaming—covering yield distribution, risk management, and liquidity incentives—enabling seamless multi-game expansion.  
+Developed an interactive front-end with Next.js, Wagmi, and RainbowKit, optimizing UX for real-time, on-chain betting and settlement.  
+Guided the team through mainnet deployment and delivered JadeRoll’s first decentralized casino prototype, establishing the project’s technical foundation in the Web3 gaming vertical.  
 
-- 提高了公司产品的开发效率，参与了从需求分析到主网部署的完整产品生命周期，推动团队快速迭代新功能，产品上线后获得了广泛用户好评。  
-  *Enhanced the development efficiency of the company's products, participating in the entire product lifecycle from requirement analysis to mainnet deployment. Drove rapid iterations of new features, earning widespread user acclaim after product launches.*
 
 ## 生态贡献 Ecological Contributions  
 
