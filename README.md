@@ -3,12 +3,20 @@
 - **姓名 Name：** Mengyuan Xie  
 - **年龄 Age：** 25  
 - **邮箱 Email：** whitehare2023@gmail.com  
-- **现居地  Location：** 西安 Xi'an  
+- **现居地  Location：** 西安 Xi'an
+
+## 个人简介
+
+*具备 4 年区块链与 Web3 领域开发经验，专注于量化交易策略的开发与优化。*   
+*With 4 years of development experience in the blockchain and Web3 fields, specializing in the development and optimization of quantitative trading strategies.*  
+
+*熟练掌握 Python、PyTorch 等技术，曾独立设计并实现多品种加密货币量化交易系统，成功实现月化收益率约 15%，并在 Binance 平台进行实盘交易。*  
+*Proficient in Python, PyTorch, and other technologies, independently designing and implementing a multi-asset cryptocurrency quantitative trading system, achieving an approximate monthly return rate of 15%, and conducting live trading on the Binance platform.*  
 
 ## 专业概述 Professional Summary  
 
-- 4 年区块链与 Web3 领域开发经验，精通以太坊、Solana 和 Sui 等公链开发，擅长智能合约设计与优化。  
-  *4 years of development experience in the blockchain and Web3 fields, proficient in public chains such as Ethereum, Solana, and Sui, specializing in smart contract design and optimization.*  
+- 精通以太坊、Solana 和 Sui 等公链开发，擅长智能合约设计与优化。  
+  *Proficient in public chains such as Ethereum, Solana, and Sui, specializing in smart contract design and optimization.*  
 - 全栈开发背景，熟练掌握前端框架（React/Next.js）和后端技术（Node.js/Express.js、MongoDB）。  
   *Full-stack development background, proficient in frontend frameworks (React/Next.js) and backend technologies (Node.js/Express.js, MongoDB).*  
 - 深入参与多个 DeFi 项目，包括衍生品交易平台、收益聚合器和跨链质押协议，具有丰富的项目全周期经验。  
