@@ -1,14 +1,14 @@
 ## 个人信息 Personal Information  
 
-- **姓名 Name：** Mengyuan Xie
-- **年龄 Age：** 25
-- **邮箱 Email：** whitehare2023@gmail.com
-- **现居地  Location：** 深圳 Shenzhen
+- **姓名 Name：** Mengyuan Xie  
+- **年龄 Age：** 25  
+- **邮箱 Email：** whitehare2023@gmail.com  
+- **现居地  Location：** 西安 Xi'an  
 
 ## 专业概述 Professional Summary  
 
-- 3 年区块链与 Web3 领域开发经验，精通以太坊、Solana 和 Sui 等公链开发，擅长智能合约设计与优化。  
-  *3 years of development experience in the blockchain and Web3 fields, proficient in public chains such as Ethereum, Solana, and Sui, specializing in smart contract design and optimization.*  
+- 4 年区块链与 Web3 领域开发经验，精通以太坊、Solana 和 Sui 等公链开发，擅长智能合约设计与优化。  
+  *4 years of development experience in the blockchain and Web3 fields, proficient in public chains such as Ethereum, Solana, and Sui, specializing in smart contract design and optimization.*  
 - 全栈开发背景，熟练掌握前端框架（React/Next.js）和后端技术（Node.js/Express.js、MongoDB）。  
   *Full-stack development background, proficient in frontend frameworks (React/Next.js) and backend technologies (Node.js/Express.js, MongoDB).*  
 - 深入参与多个 DeFi 项目，包括衍生品交易平台、收益聚合器和跨链质押协议，具有丰富的项目全周期经验。  
@@ -49,7 +49,48 @@ Supports Bitcoin, Ethereum, Solana, and Tron. Available as a standalone Chrome e
 用户无需透露具体信息，只需证明他们拥有有效的身份。用户可以在多个平台上重复使用他们的区块链身份，无需重复认证过程。利用区块链的安全性和不可篡改性，减少身份盗用和欺诈的风险。用户对自己的身份信息拥有完全的控制权。  
 Developed a decentralized identity verification system based on Halo2 technology. Users can create a blockchain-based identity containing their basic authentication information. When users need to authenticate on any supported platform, they can use Halo2's zero-knowledge proof technology to verify the validity of their identity without revealing any detailed information beyond what is necessary. Users need not disclose specific details, just prove they possess a valid identity. This identity can be reused across multiple platforms without repeating the authentication process. Utilizing the security and immutability of blockchain reduces the risk of identity theft and fraud, granting users full control over their identity information.  
 
-**DeFi 项目：基于 BSC 的去中心化金融模型开发**
+## 📈 量化交易项目经验 Quantitative Trading Project Experience (2024–2025)  
+
+**项目名称**：基于深度学习与机器学习的多品种加密货币量化交易系统  
+**Project Title**: Deep Learning and Machine Learning-Based Multi-Asset Cryptocurrency Quantitative Trading System  
+**项目周期**：2024 年 1 月 – 2025 年 8 月  
+**Project Duration**: January 2024 – August 2025  
+**月化收益**：约 15%  
+**Monthly Return**: Approximately 15%  
+**技术栈**：Python、PyTorch、Binance API  
+**Tech Stack**: Python, PyTorch, Binance API  
+
+**项目概述**：  
+构建了一套完整的数字货币量化交易系统，涵盖数据获取、特征工程、模型训练、回测验证与实盘交易，实现了多品种（BTC、ETH、SOL 等）高频秒级数据的自动化交易。  
+Developed a comprehensive cryptocurrency quantitative trading system encompassing data acquisition, feature engineering, model training, backtesting, and live trading, enabling automated trading across multiple assets (BTC, ETH, SOL) using high-frequency second-level data.  
+
+**核心技术与创新**：  
+	•	数据获取与预处理：  
+通过 Binance 数据平台获取 2010 至 2025 年的高频秒级数据，设计了自定义轴重构方法，基于成交额变化量阈值（如 0.2）动态生成 K 线，有效过滤市场噪音，突出重要价格变动信息。  
+Utilized Binance data platform to acquire high-frequency second-level data from 2010 to 2025, implementing a custom axis reconstruction method that dynamically generates candlesticks based on transaction volume change thresholds (e.g., 0.2), effectively filtering market noise and highlighting significant price movements.  
+	•	标签生成：  
+采用高斯混合隐马尔可夫模型（GMM-HMM）识别市场状态，将对数收益率、高低价差等多维特征输入模型，自动划分市场状态并生成交易信号，实现无监督学习的标签生成。  
+Employed Gaussian Mixture Hidden Markov Model (GMM-HMM) to identify market states, inputting multi-dimensional features such as log returns and high-low price differences into the model to automatically classify market states and generate trading signals, achieving unsupervised learning for label generation.  
+	•	特征工程：  
+计算样本熵（Sample Entropy）指标，运用动态窗口技术计算基于标准差和极差的熵值，构建了 80 个技术特征，包括对数收益率、移动平均、动量指标等，捕捉价格序列的复杂性和非线性特征。  
+Calculated Sample Entropy indicators, employing dynamic window techniques to compute entropy values based on standard deviation and range, constructing 80 technical features including log returns, moving averages, and momentum indicators to capture the complexity and non-linear characteristics of price sequences.  
+	•	降维与建模：  
+采用主成分分析（PCA）技术，设定 99.99% 的方差解释率，提取关键信息并降低数据维度；结合自编码器（Autoencoder）和变分自编码器（VAE）进行非线性特征提取和降维，捕捉金融数据中的复杂模式。  
+Implemented Principal Component Analysis (PCA) with a 99.99% variance explanation rate to extract key information and reduce data dimensionality; combined Autoencoder and Variational Autoencoder (VAE) for non-linear feature extraction and dimensionality reduction, capturing complex patterns in financial data.  
+	•	模型融合与评估：  
+实现多模型加权融合策略，提高预测精度和稳定性；计算夏普比率、索提诺比率、最大回撤、胜率、盈亏比等风险调整收益指标，全面评估策略表现。  
+Implemented multi-model weighted fusion strategies to enhance prediction accuracy and stability; computed risk-adjusted return metrics such as Sharpe ratio, Sortino ratio, maximum drawdown, win rate, and profit-loss ratio to comprehensively evaluate strategy performance.  
+	•	实盘交易与风险控制：  
+通过 Binance API 实现自动化多空信号生成和仓位管理，支持实盘交易功能；采用动态止盈止损、最大回撤控制等风险管理措施，确保策略的稳健性。  
+Utilized Binance API to implement automated long-short signal generation and position management, supporting live trading functionality; employed dynamic take-profit and stop-loss, maximum drawdown control, and other risk management measures to ensure strategy robustness.  
+
+**项目亮点**：  
+	•	实现了从数据获取、自定义轴重构、无监督标签生成、特征工程、降维检测、模型训练、模型组合到实盘交易的完整量化交易闭环。
+Achieved a complete quantitative trading loop from data acquisition, custom axis reconstruction, unsupervised label generation, feature engineering, dimensionality reduction, model training, model combination to live trading.()
+	•	在加密市场的高波动环境下，策略展现了良好的风险调整收益表现，成功识别市场中的非线性模式和隐藏特征。
+Demonstrated favorable risk-adjusted returns in the volatile cryptocurrency market, successfully identifying non-linear patterns and hidden features.()
+
+### DeFi 项目：基于 BSC 的去中心化金融模型开发
 **DeFi Project: Development of a Decentralized Financial Model on BSC**
 *2024.9*
 在 Binance Smart Chain 上独立开发了一个去中心化金融 (DeFi) 模型。该项目参考了 Solana 上的 Pump.fun 核心逻辑，并结合 BSC 生态特点进行了设计与优化。  
