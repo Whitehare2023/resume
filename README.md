@@ -3,17 +3,17 @@
 - **姓名 Name：** Mengyuan Xie  
 - **年龄 Age：** 25  
 - **邮箱 Email：** whitehare2023@gmail.com  
-- **现居地  Location：** 西安 Xi'an
+- **现居地 Location：** 西安 Xi'an  
 
-## 个人简介
+## 个人简介 Professional Summary  
 
-*具备 4 年区块链与 Web3 领域开发经验，专注于量化交易策略的开发与优化。*   
+*具备 4 年区块链与 Web3 领域开发经验，专注于量化交易策略的开发与优化。*  
 *With 4 years of development experience in the blockchain and Web3 fields, specializing in the development and optimization of quantitative trading strategies.*  
 
 *熟练掌握 Python、PyTorch 等技术，曾独立设计并实现多品种加密货币量化交易系统，成功实现月化收益率约 15%，并在 Binance 平台进行实盘交易。*  
 *Proficient in Python, PyTorch, and other technologies, independently designing and implementing a multi-asset cryptocurrency quantitative trading system, achieving an approximate monthly return rate of 15%, and conducting live trading on the Binance platform.*  
 
-## 专业概述 Professional Summary  
+## 专业概述 Professional Summary Details  
 
 - 精通以太坊、Solana 和 Sui 等公链开发，擅长智能合约设计与优化。  
   *Proficient in public chains such as Ethereum, Solana, and Sui, specializing in smart contract design and optimization.*  
@@ -24,87 +24,72 @@
 - 对智能合约安全性、Gas 优化和高性能分布式系统有深刻理解，擅长解决复杂技术问题。  
   *Profound understanding of smart contract security, gas optimization, and high-performance distributed systems, skilled at solving complex technical problems.*  
 
-## 求职目标  
+## 求职目标 Career Objective  
 
 专注于 Web3 领域，期望从事智能合约开发、DeFi 应用或全栈开发岗位。  
 *Focused on the Web3 world, seeking roles in smart contract development, DeFi applications, or full-stack development.*
 
-## 项目经验 Project Experience
+## 项目经验 Project Experience  
 
-**BrickinNFT黑客松项目  BrickinNFT Hackathon Project**  
-*2023.06 - 2023.07*  
-在黑客松比赛中，作为后端合约开发者，负责设计和实现了BrickinNFT，一个基于区块链的去中心化交易与流动性平台。支持不同代币交换和流动性管理。为NFT持有者提供独特的流动性收益分配机制，并和前端人员设计了用户友好的交易界面。成功推动项目打进了比赛的决赛。  
-As a backend contract developer in the hackathon, I was responsible for the design and implementation of BrickinNFT, a decentralized trading and liquidity platform based on blockchain. Supported various token exchanges and liquidity management. Provided a unique liquidity profit distribution mechanism for NFT holders and collaborated with front-end personnel to design a user-friendly trading interface. Successfully propelled the project into the finals.  
+### BrickinNFT 黑客松项目 | BrickinNFT Hackathon Project  
+*2023.06 – 2023.07*  
+- 作为后端合约开发者，设计并实现了基于区块链的去中心化交易与流动性平台 BrickinNFT，支持代币交换与流动性管理，提供独特的流动性收益机制，成功打入比赛决赛。  
+  *As a backend contract developer, designed and implemented BrickinNFT—a blockchain-based decentralized trading and liquidity platform supporting token swaps and liquidity management, featuring a unique liquidity profit distribution mechanism. Successfully propelled the project into the finals.*
 
-**基于 Sui 的质押协议 Sui-based Staking Protocol**  
-*2023.06 - 2023.07*  
-独立开发基于sui技术的质押协议。通过利用sui move的特性，该模块提高了不同质押池的互操作性。这种设计不仅简化了流程，还实现了1+1>2的协同效益。已经上链，使得未来的开发者可以迅速搭建自己的质押池子。  
-Spearheaded the independent development of a staking protocol leveraging the unique capabilities of the Sui technology. By capitalizing on the features of Sui Move, the module significantly improved the interoperability between different staking pools. This innovative design not only streamlined processes but also realized a synergistic effect where the whole became greater than the sum of its parts. The protocol has been deployed on-chain, providing a fast-track solution for future developers to establish and manage their own staking pools.
+### 基于 Sui 的质押协议 | Sui-based Staking Protocol  
+*2023.06 – 2023.07*  
+- 独立开发利用 Sui Move 提高质押池互操作性的质押协议，流程简化且具协同效应，已上线并可供开发者快速搭建质押池。  
+  *Independently developed a staking protocol leveraging Sui Move to improve interoperability between staking pools. The streamlined design delivers synergistic effects and is deployed on-chain, enabling future developers to quickly build staking pools.*
 
-**区块链多链钱包应用 Blockchain Multi-Chain Wallet Application**  
-*2023.07 - 2023.08*  
-独立完成，负责全面开发一款高安全性的区块链多链钱包应用，使用Go语言实现，优化了数据处理和交易执行效率。  
-集成助记词和私钥管理功能，提供基础的加密资产保护和恢复选项。  
-支持比特币以太坊Solana波场四条链。有独立的chrome插件和本地运行版，极大提高可用性和安全性。  
-Completed independently, responsible for the comprehensive development of a highly secure blockchain multi-chain wallet application, implemented in Go language, optimizing data processing and transaction execution efficiency.  
-Integrated mnemonic and private key management features, providing basic cryptographic asset protection and recovery options.  
-Supports Bitcoin, Ethereum, Solana, and Tron. Available as a standalone Chrome extension and a local runtime version, greatly enhancing usability and security.  
+### 区块链多链钱包应用 | Blockchain Multi-Chain Wallet Application  
+*2023.07 – 2023.08*  
+- 完整开发高安全性 Go 语言钱包应用，支持 BTC、ETH、SOL、TRON 四链，集成助记词与私钥管理，提供 Chrome 插件及本地版，提升可用性与安全性。  
+  *Developed a highly secure blockchain multi-chain wallet in Go, supporting Bitcoin, Ethereum, Solana, and Tron. Integrated mnemonic and private key management, delivered both Chrome extension and local app versions to enhance usability and security.*
 
-**电商项目：基于Halo2的去中心化身份验证独立开发 E-Commerce Project: Independent Development of Decentralized Identity Verification Based on Halo2**  
+### 电商项目：基于 Halo2 的去中心化身份验证系统 | E-Commerce Project: Decentralized Identity Verification Based on Halo2  
 *2023.10*  
-一个基于Halo2技术的去中心化身份验证系统。  
-用户可以创建一个区块链上的身份，该身份包含他们的基本认证信息。当用户需要在任何支持的平台上进行身份验证时，他们可以使用Halo2的零知识证明技术来证明其身份的有效性，而无需透露除必要信息之外的任何详细信息。  
-用户无需透露具体信息，只需证明他们拥有有效的身份。用户可以在多个平台上重复使用他们的区块链身份，无需重复认证过程。利用区块链的安全性和不可篡改性，减少身份盗用和欺诈的风险。用户对自己的身份信息拥有完全的控制权。  
-Developed a decentralized identity verification system based on Halo2 technology. Users can create a blockchain-based identity containing their basic authentication information. When users need to authenticate on any supported platform, they can use Halo2's zero-knowledge proof technology to verify the validity of their identity without revealing any detailed information beyond what is necessary. Users need not disclose specific details, just prove they possess a valid identity. This identity can be reused across multiple platforms without repeating the authentication process. Utilizing the security and immutability of blockchain reduces the risk of identity theft and fraud, granting users full control over their identity information.  
+- 构建基于 Halo2 的去中心化身份系统，支持零知识证明身份验证，用户可跨平台重复使用同一身份，保护隐私，简化身份验证流程。  
+  *Developed a decentralized identity verification system using Halo2, enabling zero-knowledge proof authentication. Users create blockchain-based identities that can be reused across platforms without revealing sensitive details, enhancing privacy and simplifying identity validation.*
 
-## 📈 量化交易项目经验 Quantitative Trading Project Experience (2024–2025)  
+### DeFi 项目：基于 BSC 的去中心化金融模型开发 | DeFi Project: Development of a Decentralized Financial Model on BSC  
+*2024.09*  
+- 独立开发 BSC 上的 DeFi 模型，参考 Solana 上 Pump.fun 核心逻辑并优化设计，支持交易、流动性提供，智能合约优化 Gas 与曲线算法，提升收益与响应速度，适应高并发场景。  
+  *Independently developed a DeFi model on Binance Smart Chain inspired by Solana’s Pump.fun. Optimized for BSC ecosystem, supporting token trades and liquidity provision. Smart contracts optimized for gas and bonding-curve logic, improving returns and response times under high concurrency.*
 
-**项目名称**：基于深度学习与机器学习的多品种加密货币量化交易系统  
-**Project Title**: Deep Learning and Machine Learning-Based Multi-Asset Cryptocurrency Quantitative Trading System  
-**项目周期**：2024 年 1 月 – 2025 年 8 月  
-**Project Duration**: January 2024 – August 2025  
-**月化收益**：约 15%  
-**Monthly Return**: Approximately 15%  
-**技术栈**：Python、PyTorch、Binance API  
-**Tech Stack**: Python, PyTorch, Binance API  
+##  量化交易项目经验 Quantitative Trading Project Experience (2024–2025)  
 
-**项目概述**：  
-构建了一套完整的数字货币量化交易系统，涵盖数据获取、特征工程、模型训练、回测验证与实盘交易，实现了多品种（BTC、ETH、SOL 等）高频秒级数据的自动化交易。  
-Developed a comprehensive cryptocurrency quantitative trading system encompassing data acquisition, feature engineering, model training, backtesting, and live trading, enabling automated trading across multiple assets (BTC, ETH, SOL) using high-frequency second-level data.  
+- **项目名称 Project Title**: 基于深度学习与机器学习的多品种加密货币量化交易系统  
+  *Deep Learning and Machine Learning-Based Multi-Asset Cryptocurrency Quantitative Trading System*  
+- **项目周期 Project Duration**: 2024 年 1 月 – 2025 年 8 月  
+  *January 2024 – August 2025*  
+- **月化收益 Monthly Return**: 约 15%  
+  *Approximately 15%*  
+- **技术栈 Tech Stack**: Python、PyTorch、Binance API  
+  *Python, PyTorch, Binance API*  
 
-**核心技术与创新**：  
-	•	数据获取与预处理：  
-通过 Binance 数据平台获取 2010 至 2025 年的高频秒级数据，设计了自定义轴重构方法，基于成交额变化量阈值（如 0.2）动态生成 K 线，有效过滤市场噪音，突出重要价格变动信息。  
-Utilized Binance data platform to acquire high-frequency second-level data from 2010 to 2025, implementing a custom axis reconstruction method that dynamically generates candlesticks based on transaction volume change thresholds (e.g., 0.2), effectively filtering market noise and highlighting significant price movements.  
-	•	标签生成：  
-采用高斯混合隐马尔可夫模型（GMM-HMM）识别市场状态，将对数收益率、高低价差等多维特征输入模型，自动划分市场状态并生成交易信号，实现无监督学习的标签生成。  
-Employed Gaussian Mixture Hidden Markov Model (GMM-HMM) to identify market states, inputting multi-dimensional features such as log returns and high-low price differences into the model to automatically classify market states and generate trading signals, achieving unsupervised learning for label generation.  
-	•	特征工程：  
-计算样本熵（Sample Entropy）指标，运用动态窗口技术计算基于标准差和极差的熵值，构建了 80 个技术特征，包括对数收益率、移动平均、动量指标等，捕捉价格序列的复杂性和非线性特征。  
-Calculated Sample Entropy indicators, employing dynamic window techniques to compute entropy values based on standard deviation and range, constructing 80 technical features including log returns, moving averages, and momentum indicators to capture the complexity and non-linear characteristics of price sequences.  
-	•	降维与建模：  
-采用主成分分析（PCA）技术，设定 99.99% 的方差解释率，提取关键信息并降低数据维度；结合自编码器（Autoencoder）和变分自编码器（VAE）进行非线性特征提取和降维，捕捉金融数据中的复杂模式。  
-Implemented Principal Component Analysis (PCA) with a 99.99% variance explanation rate to extract key information and reduce data dimensionality; combined Autoencoder and Variational Autoencoder (VAE) for non-linear feature extraction and dimensionality reduction, capturing complex patterns in financial data.  
-	•	模型融合与评估：  
-实现多模型加权融合策略，提高预测精度和稳定性；计算夏普比率、索提诺比率、最大回撤、胜率、盈亏比等风险调整收益指标，全面评估策略表现。  
-Implemented multi-model weighted fusion strategies to enhance prediction accuracy and stability; computed risk-adjusted return metrics such as Sharpe ratio, Sortino ratio, maximum drawdown, win rate, and profit-loss ratio to comprehensively evaluate strategy performance.  
-	•	实盘交易与风险控制：  
-通过 Binance API 实现自动化多空信号生成和仓位管理，支持实盘交易功能；采用动态止盈止损、最大回撤控制等风险管理措施，确保策略的稳健性。  
-Utilized Binance API to implement automated long-short signal generation and position management, supporting live trading functionality; employed dynamic take-profit and stop-loss, maximum drawdown control, and other risk management measures to ensure strategy robustness.  
+**项目概述 Project Overview**:  
+构建全面量化交易系统，从数据获取、特征工程、模型训练、回测验证到实盘交易，实现 BTC、ETH、SOL 等数字货币的高频秒级自动化交易。  
+*Developed a comprehensive cryptocurrency quantitative trading system—from data acquisition, feature engineering, model training, backtesting to live trading—enabling high-frequency automated trading across BTC, ETH, SOL, etc.*
 
-**项目亮点**：  
-	•	实现了从数据获取、自定义轴重构、无监督标签生成、特征工程、降维检测、模型训练、模型组合到实盘交易的完整量化交易闭环。
-Achieved a complete quantitative trading loop from data acquisition, custom axis reconstruction, unsupervised label generation, feature engineering, dimensionality reduction, model training, model combination to live trading.()
-	•	在加密市场的高波动环境下，策略展现了良好的风险调整收益表现，成功识别市场中的非线性模式和隐藏特征。
-Demonstrated favorable risk-adjusted returns in the volatile cryptocurrency market, successfully identifying non-linear patterns and hidden features.()
+**核心技术与创新 Core Technologies & Innovations**:  
+- 数据获取与预处理：使用 Binance API 获取 2010–2025 高频秒级数据，自定义轴重构 K 线，过滤噪音，突出重要波动。  
+  *Utilized Binance API to gather high-frequency second-level data (2010–2025), custom axis reconstruction method for candlesticks that filters noise and highlights significant price fluctuations.*  
+- 标签生成：使用 GMM-HMM 将多维特征（对数收益率、高低价差等）输入模型，自动识别市场状态并生成交易信号，完成无监督标签生成。  
+  *Employed GMM-HMM using multi-dimensional features (log returns, high-low price differences) to identify market states and generate trading signals via unsupervised label generation.*  
+- 特征工程：计算 Sample Entropy、移动平均等 80 个技术指标，捕捉序列复杂性与非线性特征。  
+  *Computed Sample Entropy, moving averages, etc., forming 80 technical features to capture sequence complexity and non-linear patterns.*  
+- 降维与建模：PCA 提取 99.99% 方差主成分；Autoencoder 和 VAE 捕捉非线性特征。  
+  *Used PCA to extract principal components explaining 99.99% variance; employed Autoencoder and VAE for non-linear feature capture.*  
+- 模型融合与评估：多模型加权融合，优化预测稳定性；评估指标包含夏普比率、最大回撤等。  
+  *Implemented multi-model weighted fusion for stable predictions; evaluated using Sharpe ratio, maximum drawdown, etc.*  
+- 实盘交易与风险控制：通过 Binance API 实施自动多空信号、仓位管理，支持止盈止损、最大回撤控制，保障稳健交易。  
+  *Implemented automated signal generation and position management via Binance API; integrated take-profit/stop-loss and drawdown controls for robustness.*
 
-### DeFi 项目：基于 BSC 的去中心化金融模型开发
-**DeFi Project: Development of a Decentralized Financial Model on BSC**
-*2024.9*
-在 Binance Smart Chain 上独立开发了一个去中心化金融 (DeFi) 模型。该项目参考了 Solana 上的 Pump.fun 核心逻辑，并结合 BSC 生态特点进行了设计与优化。  
-用户可以通过该模型在 BSC 网络上进行代币买卖与流动性提供操作。为了适应 BSC 网络的性能特点，我对智能合约进行了深入的优化，降低了 Gas 费用，并改进了曲线算法，使得用户在进行大额交易时的成本降低、交易速度加快。  
-该模型允许用户在提供流动性时自动计算奖励，并在曲线机制下获得更好的收益回报。系统还针对高并发交易场景做了性能优化，显著提升了交易响应时间。  
-Independently developed a decentralized financial (DeFi) model on Binance Smart Chain (BSC), inspired by the core logic of Pump.fun on Solana but redesigned and optimized for the BSC ecosystem. The model allows users to trade tokens and provide liquidity on the BSC network. The smart contracts were optimized to reduce gas fees and improve the curve algorithm, leading to reduced costs and faster transactions for users during large trades. The system automatically calculates rewards for liquidity providers and enhances returns based on a bonding curve mechanism. The project also included performance optimizations to handle high transaction volumes, significantly improving response times.  
+**项目亮点 Highlights**:  
+- 完整闭环交易流程：数据获取 → 特征工程 → 模型训练 → 回测 → 实盘交易。  
+  *Achieved full cycle: data acquisition → feature engineering → model training → backtesting → live trading.*  
+- 在高波动加密市场中表现优异，捕捉非线性模式与隐藏特征，实现稳健风险调整收益。  
+  *Delivered robust risk-adjusted returns in volatile crypto markets by effectively identifying non-linear and hidden patterns.*
 
 ## 工作经历 Work Experience  
 
